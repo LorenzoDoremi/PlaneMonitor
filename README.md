@@ -1,2 +1,2 @@
 # PlaneMonitor
-a Processing-driven  flight-dataand altimetry mapping visualizator
+a Processing-driven  flight-data and altimetry mapping visualizator
